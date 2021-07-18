@@ -1,2 +1,9 @@
 # Webcam-view-python
-Want to check your webcam is working or not  ?? Use this . If you want to save picture you may use another function.
+##Install These Modules
+py -m pip install PyQt5
+py -m pip install os
+py -m pip install time
+py -m pip install sys
+
+##Now run the code.
+
